@@ -1,6 +1,0 @@
-.env
-__pycache__/
-.venv/
-data/messages.json
-data/conversations.json
-data/*.tmp
