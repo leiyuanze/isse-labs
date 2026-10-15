@@ -1,5 +1,0 @@
-Flask
-httpx[socks]
-openai
-python-dotenv
-socksio
